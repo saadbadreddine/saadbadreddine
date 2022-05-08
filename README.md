@@ -16,6 +16,6 @@
 
 <br />
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saadbadreddine&show_icons=true&theme=dracula&locale=en&layout=compact" alt="saadbadreddine" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saadbadreddine&show_icons=true&theme=nord&locale=en&layout=compact" alt="saadbadreddine" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saadbadreddine&theme=dracula" alt="saadbadreddine" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saadbadreddine&theme=nord" alt="saadbadreddine" /></p>
