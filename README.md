@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saad</h1>
 
-<h3 align="center">A junior full stack web developer and network admin from Lebanon</h3>
+<h3 align="center">A junior full stack developer and network admin from Lebanon</h3>
 
 - 🚀 I’m currently learning **Flutter and Go**
 
